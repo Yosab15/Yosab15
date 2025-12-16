@@ -3,7 +3,7 @@
 <p>
 Welcome to my GitHub profile! <br/>
 I'm <b>Yousab Mina Gad</b>, Full-Stack Developer from 
-<img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="13"/> 
+<img src="https://flagpedia.net/data/flags/w20/eg.png" width="13"/>
 <b>Giza, Egypt</b>.
 </p>
 
