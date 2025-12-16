@@ -99,6 +99,14 @@ Experienced in building responsive, user-friendly applications using
       </td>
     </tr>
   </tbody>
+  <tr>
+      <td><b>Dashboard</b></td>
+      <td>React</td>
+      <td>
+        Built a responsive dashboard using React Hooks, React Router, and Tailwind CSS with reusable components and dynamic UI.
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 <hr/>
